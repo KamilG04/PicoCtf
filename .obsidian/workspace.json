@@ -258,9 +258,23 @@
               "icon": "lucide-file",
               "title": "Dynamiczna analiza"
             }
+          },
+          {
+            "id": "c925275835941163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecsc/Crackme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crackme"
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -422,12 +436,26 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "0b7c363a13ac941c",
+  "active": "c925275835941163",
   "lastOpenFiles": [
-    "Ecsc",
+    "Ecsc/solvery.py",
+    "Ecsc/env/lib/python3.14/site-packages/z3_solver-4.16.0.0.dist-info/RECORDil44x5y1.tmp",
+    "Ecsc/env/lib/python3.14/site-packages/z3_solver-4.16.0.0.dist-info/REQUESTED",
+    "Ecsc/env/lib/python3.14/site-packages/z3_solver-4.16.0.0.dist-info/INSTALLER",
+    "Ecsc/env/lib/python3.14/site-packages/z3_solver-4.16.0.0.dist-info/INSTALLER4hsmpifv.tmp",
+    "Ecsc/env/lib/python3.14/site-packages/z3/__pycache__/z3util.cpython-314.pyc",
+    "Ecsc/env/lib/python3.14/site-packages/z3/__pycache__/z3types.cpython-314.pyc",
+    "Ecsc/env/lib/python3.14/site-packages/z3/__pycache__/z3rcf.cpython-314.pyc",
+    "Ecsc/env/lib/python3.14/site-packages/z3/__pycache__/z3printer.cpython-314.pyc",
+    "Ecsc/env/lib/python3.14/site-packages/z3/__pycache__/z3poly.cpython-314.pyc",
+    "Ecsc/env/lib/python3.14/site-packages/z3/__pycache__/z3num.cpython-314.pyc",
+    "Ecsc/env/lib/python3.14/site-packages/pip-26.0.1.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "Ecsc/env/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
+    "Pasted image 20260419234441.png",
+    "Narzedzia/Dynamiczna analiza.md",
+    "Ecsc/Crackme.md",
     "PicoCtf/RE MEDIUM/WinAntiDbg0x100.md",
     "PicoCtf/RE MEDIUM/Autorev 1.md",
-    "Narzedzia/Dynamiczna analiza.md",
     "PicoCtf/RE MEDIUM/WinAntiDbg0x300.md",
     "PwnCollege/Bez nazwy.md",
     "PicoCtf/RE MEDIUM/WinAntiDbg0x200.md",
@@ -451,16 +479,9 @@
     "Pasted image 20260419134418.png",
     "Pasted image 20260419132644.png",
     "Pasted image 20260419132035.png",
-    "Pasted image 20260419130616.png",
     "PicoCtf/RE MEDIUM/Secure.md",
-    "PicoCtf/RE MEDIUM/DoPowtorki",
     "1],[3],[4.md",
-    "Narzedzia",
     "Bypass Me.md",
-    "PicoCtf/RE MEDIUM/SPD.py",
-    "PicoCtf/RE MEDIUM",
-    "PicoCtf",
-    "Witaj.md",
-    "PwnCollege"
+    "Witaj.md"
   ]
 }
