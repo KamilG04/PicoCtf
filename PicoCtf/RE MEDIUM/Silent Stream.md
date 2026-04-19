@@ -1,0 +1,1 @@
+Pakiety z cezarem doslownie zaimportowac
